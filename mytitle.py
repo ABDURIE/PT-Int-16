@@ -12,7 +12,7 @@ def mytitle():
     return print(a[1:])
 
 mytitle()
-# аолкрплрплпрррф
+
 
 
 #примечание
